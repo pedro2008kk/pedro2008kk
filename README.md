@@ -1,5 +1,5 @@
-## Olá! meu nome é Pedro, e sou um estudante da área de TI. 👨‍💻
-## Atualmente estudando em escola pública no período da manhã, 3º ano do ensino médio de segunda a sexta e cursando Técnico em informática e sistemas pra internet na QI Escolas técnica e Faculdade as terças e quintas.💾
+## 🎧 Olá! meu nome é Pedro, e sou um estudante da área de TI. 👨‍💻
+## 💽 Atualmente estudando em escola pública no período da manhã, 3º ano do ensino médio de segunda a sexta e cursando Técnico em informática e sistemas pra internet na QI Escolas técnica e Faculdade as terças e quintas.💾
 
 <!--
 **pedro2008kk/pedro2008kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
