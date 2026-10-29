@@ -1,6 +1,4 @@
 ## Olá!!!
 Estudante de tecnologia e programação
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/dd784310-ada2-4d3c-8e2d-38baf63348f3" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/99a83ed6-676c-4033-a986-14b84eafe767" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c1495f89-5298-42e1-98f7-6b94de91b71e" />
+<img width="64" height="64" alt="javascript_64x64" src="https://github.com/user-attachments/assets/93f5555f-de1b-4f4e-ac9e-496da74ab81c" />
 
