@@ -1,4 +1,4 @@
-## Hi there 👋
+## Estudante de TI
 
 <!--
 **pedro2008kk/pedro2008kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
