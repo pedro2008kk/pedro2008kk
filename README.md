@@ -1,5 +1,28 @@
-## 🎧 Olá! meu nome é Pedro, e sou um estudante da área de TI. 👨‍💻
-## 💽 Atualmente estudando em escola pública no período da manhã, 3º ano do ensino médio de segunda a sexta e cursando Técnico em informática e sistemas pra internet na QI Escolas técnica e Faculdade as terças e quintas.💾
+##Olá! 👋
+
+💻 Estudante de tecnologia e programação.
+
+Atualmente, estou desenvolvendo minhas habilidades em programação, explorando o desenvolvimento de software e aprendendo mais sobre cibersegurança.
+
+**🛠️ Tecnologias e ferramentas**
+
+  Python
+
+  HTML & CSS
+
+  JavaScript
+
+  Kotlin
+
+  Linux
+
+📚 Atualmente estudando
+
+  Lógica de programação
+
+  Desenvolvimento de software/aplicativos
+
+  Fundamentos de cibersegurança
 
 <!--
 **pedro2008kk/pedro2008kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
